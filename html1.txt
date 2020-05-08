@@ -1,6 +1,0 @@
-<html>
-<header><title>this is devops sample learning</title></header>
-<body>
-Hello Sachin your first HTML File
-</body>
-</html>
