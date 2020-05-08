@@ -1,3 +1,0 @@
-FROM UBUNTU
-add . /var/www/html
-
